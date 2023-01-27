@@ -1,0 +1,19 @@
+backend 
+user logic(LOGIN SIGNUP)
+product CRUD 
+product listing
+
+product buy/sell 
+
+/products/buy
+/products/sell
+
+Access control List --> Admin, User 
+
+Postgresql Tables
+LOGIN
+USER
+PRODUCT 
+BUY/SELL LOGS --> Transaction db 
+
+commodity
